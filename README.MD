@@ -1,7 +1,7 @@
 
-# Desafio Ateríscos
+# Desafio Números primos
 
-Esse desafio foi feito para desenvolver um método onde apareça somente os numeros primos.
+Esse desafio foi feito para desenvolver um método onde apareça somente os números primos.
 
 ## 🚀 Tecnologias
 
